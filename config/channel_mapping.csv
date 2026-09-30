@@ -1,0 +1,22 @@
+source_raw,channel_name,channel_group,is_paid,utm_medium
+google,Google Ads,Paid Search,1,cpc
+pay per click ads,Google Ads,Paid Search,1,cpc
+bing,Microsoft Ads,Paid Search,1,cpc
+facebook,Meta Ads,Paid Social,1,paid_social
+youtubechannel,YouTube Ads,Paid Video,1,paid_video
+organic search,Organic Search,Organic,0,organic
+direct traffic,Direct,Direct,0,direct
+reference,Referral,Referral,0,referral
+referral sites,Referral,Referral,0,referral
+welingak website,Partner Website,Referral,0,referral
+olark chat,Website Chat,Direct,0,chat
+live chat,Website Chat,Direct,0,chat
+click2call,Click2Call,Direct,0,call
+social media,Social Organic,Organic,0,social
+nc_edm,Email,Email,0,email
+blog,Content,Organic,0,organic
+press_release,Content,Organic,0,organic
+wechat,Other,Other,0,other
+testone,Other,Other,0,other
+other,Other,Other,0,other
+unknown,Unknown,Other,0,unknown
